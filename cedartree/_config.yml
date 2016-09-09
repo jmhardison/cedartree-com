@@ -1,22 +1,20 @@
 # Site settings
 title: Cedar Tree Management
-email:
+email: info@cedartree.com
 description: Real Estate Management and Development
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://www.cedartree.com" # the base hostname & protocol for your site
 
 # User setting
 owner:
-email:
+email: info@cedartree.com
 facebook_username:
 twitter_username:
 github_username:
-address:
-  - line:
-  - line:
+address: "1701 W 26th St., Joplin, MO 64804"
   # Feel free to add more lines here 
-telephone:
-copyright:
+telephone: "(417) 782-9090"
+copyright: Cedar Tree Management
 
 # API settings
 google_api_key:
